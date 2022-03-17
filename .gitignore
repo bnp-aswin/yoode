@@ -1,0 +1,18 @@
+/node_modules/*
+
+/config.php
+
+*.css.map
+*.js.map
+
+*.cache
+*.log
+*.zip
+/.idea
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+.DS_Store
